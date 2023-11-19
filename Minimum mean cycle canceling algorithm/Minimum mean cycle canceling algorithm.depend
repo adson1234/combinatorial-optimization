@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1526853709 source:d:\資料(1070122建立)\combinatorial optimization hw\minimum mean cycle canceling algorithm\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<vector>
+	<stack>
+	<queue>
+	<deque>
+	<cstring>
+	<sstream>
+	<string>
+	<fstream>
+	<limits.h>
+	<climits>
+	<windows.h>
+	<time.h>
+
